@@ -16,8 +16,8 @@ _**"Hack the system, but keep it secure!"**_
 ## 🛡️ Cybersecurity & SOC Focus
 
 - ✅ **Certified SOC Analyst (CSA)** – EC-Council  
-- 🧠 **CEH Certified** – Ethical Hacking & Red Teaming  
-- 🔍 Badge: *Detecting Web Attacks* – Let’s Defend  
+- 🧠 **CEH Certified** – Ethical Hacking & Red Teaming (CEH) 
+- 🔍 Badge: 0*Detecting Web Attacks* – Let’s Defend  
 - 🎯 Real-world projects: Web, Network, System Vulnerability Assessments  
 - 📁 GitHub project: [SOC Path](https://github.com/faith-muendi/Data-Flow-Chat)  
 - 🌐 Learning **Bug Bounty Hunting**, **SIEM Tools**, **Threat Intelligence**
