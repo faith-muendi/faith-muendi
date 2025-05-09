@@ -3,10 +3,8 @@
 🔐 **Cybersecurity Enthusiast** | 🛡️ **SOC Analyst** | 💻 **Frontend Developer** | ☁️ **AWS Learner**
 # Cybersecurity Animation
 
-![Cybersecurity Animation](https://assets3.lottiefiles.com/packages/lf20_8ueeayih.json)
 ![Cybersecurity Animation](https://media.giphy.com/media/2nHfZrK44bu9B69RQm/giphy.gif)
-
-![Cybersecurity Animation](https://media.giphy.com/media/6QAPUSFz3bqzScODCk/giphy.gif)  
+![Cybersecurity Animation](https://media.giphy.com/media/xyz123456abcdef/giphy.gif)  
 _**"Hack the system, but keep it secure!"**_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faithmuendi-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/faith-muendi-95a924188/)
