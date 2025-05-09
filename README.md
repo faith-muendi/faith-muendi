@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a passionate **Cybersecurity Specialist**, c
 
 ## 💻 About Me
 
-- 🌍 Location: Nairobi, Kenya
+
 - 🎓 Education: Studied **Web Development** at **Victory Digital College** and **Cybersecurity** at **ALX**.
 - 🛡️ Certifications: **SOC Analyst (CSA)**, **Certified Ethical Hacker (CEH)**.
 
