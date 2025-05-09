@@ -1,58 +1,43 @@
-
 # 👋 Hi there, I'm Faith Muendi!
 
-🎯 A passionate **Cybersecurity Enthusiast**, certified **SOC Analyst**, and **Frontend Developer** exploring **Backend** and **AWS** through ALX.
+🔐 Cybersecurity Enthusiast | 🛡️ SOC Analyst | 💻 Frontend Developer | ☁️ AWS Learner
 
 ---
 
-## 🛡️ Cybersecurity & SOC
+## 🛡️ Cybersecurity & SOC Focus
 
 - ✅ **Certified SOC Analyst (CSA)** – EC-Council
-- 🔒 **CEH Certified** – Ethical Hacking, Red Teaming
-- 🕵️‍♀️ Badge: *Detecting Web Attacks* on Let's Defend
-- 🛠️ **SOC Path Project**: Visual data flow for real-time monitoring
-- 🐞 Currently diving into **Bug Bounty Hunting**
+- 🧠 **CEH Certified** – Ethical Hacking & Red Teaming
+- 🛠️ Working on real-world **vulnerability assessments**
+- 🕵️ Badge: *Detecting Web Attacks* on Let's Defend
+- 📊 Project: **SOC Path** – showing security data flow
+- 🎯 Learning: **Bug Bounty Hunting & Threat Intelligence**
 
 ---
 
-## 💻 Web Development
+## 💻 Web Development Skills
 
-- 💚 Built **NutriNest**, a health-focused restaurant website
-- 🎨 Experienced in HTML, CSS, JavaScript & WordPress
-- 🖼️ Focused on clean UI/UX and responsive design
-
----
-
-## 🌐 What I'm Learning
-
-- ⚙️ Backend Development with Python and Node.js
-- ☁️ AWS Cloud Practitioner Path (via ALX)
-- 🧠 Automation with Python for Security Operations
-- 📚 Real-world Vulnerability Assessments
+- 💚 Built **NutriNest** – a healthy restaurant site with HTML, CSS, Bootstrap
+- 🎨 Strong skills in **Frontend Dev** (HTML, CSS, JS, WordPress)
+- ⚙️ Learning **Backend** with Python and Node.js
+- 📱 Responsive design focus & clean UI/UX
 
 ---
 
-## 📫 Let's Connect
+## ☁️ Cloud & Dev Tools
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/faith-muendi-95a924188/)
-- 🧑‍💻 [GitHub](https://github.com/faith-muendi)
+- 🚀 Learning **AWS** with ALX
+- 💼 Familiar with Git, GitHub, Visual Studio Code
+- 🔐 Studying **SOC workflows** and **SIEM tools**
+
+---
+
+## 📫 Let’s Connect
+
+- 🌍 [LinkedIn](https://www.linkedin.com/in/faith-muendi-95a924188/)
+- 💻 [GitHub](https://github.com/faith-muendi)
 - 📧 Email: faithmuendi20@gmail.com
 
 ---
 
-> “Be brave. Be curious. Stay secure.” – Faith 🔐
-
-<!--
-**faith-muendi/faith-muendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🧩 “Be brave. Be curious. Stay secure.” – *Faith Muendi*
