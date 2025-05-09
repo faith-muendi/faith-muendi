@@ -2,8 +2,8 @@
 
 🔐 **Cybersecurity Enthusiast** | 🛡️ **SOC Analyst** | 💻 **Frontend Developer** | ☁️ **AWS Learner**
 
-![Intro GIF](https://media.giphy.com/media/d2Z4e6xC6F2qD8d7U4/giphy.gif)  
-_**"Stay curious, stay secure."**_
+![Cybersecurity Animation](https://media.giphy.com/media/6QAPUSFz3bqzScODCk/giphy.gif)  
+_**"Hack the system, but keep it secure!"**_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faithmuendi-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/faith-muendi-95a924188/)
 [![Email](https://img.shields.io/badge/Email-faithmuendi20%40gmail.com-green?logo=gmail&style=flat-square)](mailto:faithmuendi20@gmail.com)
