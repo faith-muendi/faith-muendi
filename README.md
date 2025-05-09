@@ -1,89 +1,58 @@
 # 👋 Hi there, I'm Faith Muendi!
 
-🔐 **Cybersecurity Enthusiast** | 🛡️ **SOC Analyst** | 💻 **Frontend Developer** | ☁️ **AWS Learner**
+🔐 **Cybersecurity Enthusiast** | 💻 **SOC Analyst** | 🛠️ **Frontend Developer** | 🌱 **Learning AWS** | ☁️ **Cloud Security**
 
+![Cybersecurity Animation](https://media.giphy.com/media/6QAPUSFz3bqzScODCk/giphy.gif)
 
-![Cybersecurity Animation](https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif) 
-<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" height="300px" />
+Welcome to my GitHub profile! I’m a passionate **Cybersecurity Specialist**, constantly learning and building skills in **SOC Analysis**, **Web Security**, and **Cloud Security**. I'm also a **Frontend Developer**, creating secure web applications and exploring **Bug Bounty Hunting**.
 
+## 💻 About Me
 
-  
-
- 
-_**"Hack the system, but keep it secure!"**_
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-faithmuendi-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/faith-muendi-95a924188/)
-[![Email](https://img.shields.io/badge/Email-faithmuendi20%40gmail.com-green?logo=gmail&style=flat-square)](mailto:faithmuendi20@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=faith-muendi&style=flat-square&color=blue)
+- 🌍 Location: Nairobi, Kenya
+- 🎓 Education: Studied **Web Development** at **Victory Digital College** and **Cybersecurity** at **ALX**.
+- 🛡️ Certifications: **SOC Analyst (CSA)**, **Certified Ethical Hacker (CEH)**.
 
 ---
 
+## 🛡️ Cybersecurity Projects
 
-## 🛡️ Cybersecurity & SOC Focus
+### 🛠️ Tools & Skills
 
-- ✅ **Certified SOC Analyst (CSA)** – EC-Council  
-- 🧠 **CEH Certified** – Ethical Hacking & Red Teaming (CEH) 
-- 🔍 Badge: 0*Detecting Web Attacks* – Let’s Defend  
-- 🎯 Real-world projects: Web, Network, System Vulnerability Assessments  
-- 📁 GitHub project: [SOC Path](https://github.com/faith-muendi/Data-Flow-Chat)  
-- 🌐 Learning **Bug Bounty Hunting**, **SIEM Tools**, **Threat Intelligence**
-
----
-
-## 💻 Web Development
-
-- 🌱 **Frontend Developer** (HTML, CSS, JS, WordPress)  
-- 🍃 Built [NutriNest](https://github.com/faith-muendi/nutrinest) – Healthy restaurant website  
-- ⚙️ Learning **Backend** (Python, Node.js)  
-- 🌐 Passion for **UI/UX** design & **responsive web**  
+- **SOC Tools**: Kali Linux, Burp Suite, Wireshark, Nmap
+- **Languages**: Python, HTML, CSS, JavaScript, WordPress
+- **Certifications**: SOC Analyst, CEH
+- **Current Focus**: Exploring **Bug Bounty Hunting**, **Red Teaming**, **AWS Security**
 
 ---
 
-## ☁️ Cloud & Tools
+### 🔐 Featured Projects
 
-- ☁️ Learning **AWS** via ALX (IAM, EC2, S3, Cloud Security)  
-- 🛠️ Tools: Kali Linux, Burp Suite, Nmap, Wireshark, VS Code, GitHub  
-- 📚 Platforms: Hack The Box, Let’s Defend  
+- **[SOC Path Project](https://github.com/faith-muendi/Data-Flow-Chat)**: Demonstrates data flow in security operations for a SOC.
+- **[NutriNest](https://github.com/faith-muendi/nutrinest)**: A healthy restaurant website built with responsive design using HTML, CSS, and JavaScript.
+
+---
+
+## 🌱 Learning Path
+
+- **2023**: Started learning **Frontend Web Development** (HTML, CSS, JS).
+- **2024**: Completed **Certified Ethical Hacker (CEH)**, **SOC Analyst** certification.
+- **2025**: Focusing on **AWS Security** and **Cloud Security**.
 
 ---
 
 ## 📈 GitHub Stats
 
-| GitHub Stats | Most Used Languages |
-| ------------ | ------------------- |
-| ![Faith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faith-muendi&show_icons=true&theme=react) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faith-muendi&layout=compact&theme=react) |
+![Faith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faith-muendi&show_icons=true&theme=react)
 
 ---
 
-## 🔥 Featured Projects
+## 📫 Let's Connect
 
-- 🔐 [SOC Path](https://github.com/faith-muendi/Data-Flow-Chat) – Visualizing security monitoring data flow  
-- 🥗 [NutriNest](https://github.com/faith-muendi/nutrinest) – Responsive healthy food website  
-- 🛡️ Cyber Lab Reports – Coming soon!
-
----
-
-## 🌟 Timeline of Learning Progress
-
-- **2023**: Started learning **Frontend Web Development** (HTML, CSS, JS)
-- **2024**: **Certified Ethical Hacker (CEH)** and **SOC Analyst**  
-- **2025**: Began **AWS** studies and **Bug Bounty Hunting**
-- **Future**: Mastering **Red Teaming** & **Cloud Security**
-
----
-
-## 🌙 Dark/Light Mode Toggle
-![Dark Mode](https://img.shields.io/badge/Mode-Dark-blue?style=flat-square)  
-![Light Mode](https://img.shields.io/badge/Mode-Light-yellow?style=flat-square)
-
----
-
-## 📫 Let’s Connect
-
-- [🌐 GitHub](https://github.com/faith-muendi)
 - [📧 Email](mailto:faithmuendi20@gmail.com)
 - [🔗 LinkedIn](https://www.linkedin.com/in/faith-muendi-95a924188/)
+- [🌐 GitHub](https://github.com/faith-muendi)
 
 ---
 
-> 💬 *“Be brave. Be curious. Stay secure.”* – **Faith Muendi**
+## 💬 Favorite Quote
+*"Security isn't just a feature; it's a mindset."* – **Faith Muendi**
