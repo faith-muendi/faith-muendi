@@ -10,6 +10,40 @@ _**"Hack the system, but keep it secure!"**_
 ![Profile Views](https://komarev.com/ghpvc/?username=faith-muendi&style=flat-square&color=blue)
 
 ---
+## Cybersecurity Alert Simulation
+
+```html
+<div style="font-family: 'Courier New', monospace; background-color: black; color: lime; padding: 20px; border-radius: 8px; width: fit-content; margin: 0 auto; text-align: center;">
+  <h2 style="font-size: 24px; margin: 10px;">🔒 Cybersecurity Alert!</h2>
+  <div id="scanner" style="font-size: 18px; margin-bottom: 10px; animation: scan 3s infinite;"></div>
+  <p>🛡️ **Security Scan in Progress...**</p>
+  <p style="font-size: 14px; color: #a9a9a9;">⚠️ This is a simulation of a cybersecurity system scan.</p>
+</div>
+
+<style>
+  @keyframes scan {
+    0% {
+      content: "Scanning system... 🛡️";
+    }
+    25% {
+      content: "System vulnerabilities detected... ⚠️";
+    }
+    50% {
+      content: "Applying fixes... 🛠️";
+    }
+    75% {
+      content: "Scan complete! 🔍";
+    }
+    100% {
+      content: "Resuming normal operations... ✅";
+    }
+  }
+
+  #scanner::after {
+    content: "Scanning system... 🛡️";
+    animation: scan 3s infinite;
+  }
+</style>
 
 ## 🛡️ Cybersecurity & SOC Focus
 
