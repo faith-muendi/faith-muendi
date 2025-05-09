@@ -2,7 +2,9 @@
 
 🔐 **Cybersecurity Enthusiast** | 💻 **SOC Analyst** | 🛠️ **Frontend Developer** | 🌱 **Learning AWS** | ☁️ **Cloud Security**
 
-![Cybersecurity Animation](https://media.giphy.com/media/6QAPUSFz3bqzScODCk/giphy.gif)
+
+![Cybersecurity Animation](https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif)  
+
 
 Welcome to my GitHub profile! I’m a passionate **Cybersecurity Specialist**, constantly learning and building skills in **SOC Analysis**, **Web Security**, and **Cloud Security**. I'm also a **Frontend Developer**, creating secure web applications and exploring **Bug Bounty Hunting**.
 
