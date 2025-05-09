@@ -1,7 +1,9 @@
 # 👋 Hi there, I'm Faith Muendi!
 
 🔐 **Cybersecurity Enthusiast** | 🛡️ **SOC Analyst** | 💻 **Frontend Developer** | ☁️ **AWS Learner**
-(https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif)
+
+
+![Cybersecurity Animation](https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif) 
 ![Cybersecurity Animation](https://media.giphy.com/media/GFLB1pCmhgvIDSJTvp/giphy.gif)
  
 _**"Hack the system, but keep it secure!"**_
