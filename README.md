@@ -4,7 +4,8 @@
 
 
 ![Cybersecurity Animation](https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif) 
-![Cybersecurity Animation](https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif)  
+![Binary Code Animation](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)
+  
 
  
 _**"Hack the system, but keep it secure!"**_
