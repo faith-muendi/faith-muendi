@@ -1,6 +1,9 @@
 # 👋 Hi there, I'm Faith Muendi!
 
-🔐 Cybersecurity Enthusiast | 🛡️ SOC Analyst | 💻 Frontend Developer | ☁️ AWS Learner
+🔐 **Cybersecurity Enthusiast** | 🛡️ **SOC Analyst** | 💻 **Frontend Developer** | ☁️ **AWS Learner**
+
+![Intro GIF](https://media.giphy.com/media/d2Z4e6xC6F2qD8d7U4/giphy.gif)  
+_**"Stay curious, stay secure."**_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faithmuendi-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/faith-muendi-95a924188/)
 [![Email](https://img.shields.io/badge/Email-faithmuendi20%40gmail.com-green?logo=gmail&style=flat-square)](mailto:faithmuendi20@gmail.com)
@@ -12,19 +15,19 @@
 
 - ✅ **Certified SOC Analyst (CSA)** – EC-Council  
 - 🧠 **CEH Certified** – Ethical Hacking & Red Teaming  
-- 🕵️ Badge earned: *Detecting Web Attacks* – Let’s Defend  
-- 🔍 Real-world projects: Vulnerability assessments (Web, Network, System)  
-- 📁 GitHub project: [SOC Path](https://github.com/faith-muendi/Data-Flow-Chat) – SOC data flow mapping  
-- 🎯 Learning **Bug Bounty Hunting**, **SIEM tools**, and **Threat Intelligence**
+- 🔍 Badge: *Detecting Web Attacks* – Let’s Defend  
+- 🎯 Real-world projects: Web, Network, System Vulnerability Assessments  
+- 📁 GitHub project: [SOC Path](https://github.com/faith-muendi/Data-Flow-Chat)  
+- 🌐 Learning **Bug Bounty Hunting**, **SIEM Tools**, **Threat Intelligence**
 
 ---
 
 ## 💻 Web Development
 
-- 🌱 Frontend developer (HTML, CSS, JS, WordPress)  
-- 🍃 Built [NutriNest](https://github.com/faith-muendi/nutrinest) – healthy restaurant website  
-- ⚙️ Learning Backend (Python, Node.js)  
-- 🌐 Love clean UI/UX & responsive web design  
+- 🌱 **Frontend Developer** (HTML, CSS, JS, WordPress)  
+- 🍃 Built [NutriNest](https://github.com/faith-muendi/nutrinest) – Healthy restaurant website  
+- ⚙️ Learning **Backend** (Python, Node.js)  
+- 🌐 Passion for **UI/UX** design & **responsive web**  
 
 ---
 
@@ -49,6 +52,21 @@
 - 🔐 [SOC Path](https://github.com/faith-muendi/Data-Flow-Chat) – Visualizing security monitoring data flow  
 - 🥗 [NutriNest](https://github.com/faith-muendi/nutrinest) – Responsive healthy food website  
 - 🛡️ Cyber Lab Reports – Coming soon!
+
+---
+
+## 🌟 Timeline of Learning Progress
+
+- **2023**: Started learning **Frontend Web Development** (HTML, CSS, JS)
+- **2024**: **Certified Ethical Hacker (CEH)** and **SOC Analyst**  
+- **2025**: Began **AWS** studies and **Bug Bounty Hunting**
+- **Future**: Mastering **Red Teaming** & **Cloud Security**
+
+---
+
+## 🌙 Dark/Light Mode Toggle
+![Dark Mode](https://img.shields.io/badge/Mode-Dark-blue?style=flat-square)  
+![Light Mode](https://img.shields.io/badge/Mode-Light-yellow?style=flat-square)
 
 ---
 
