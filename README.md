@@ -30,7 +30,6 @@ Welcome to my GitHub profile! I’m a passionate **Cybersecurity Specialist**, c
 ### 🔐 Featured Projects
 
 - **[SOC Path Project](https://github.com/faith-muendi/Data-Flow-Chat)**: Demonstrates data flow in security operations for a SOC.
-- **[NutriNest](https://github.com/faith-muendi/nutrinest)**: A healthy restaurant website built with responsive design using HTML, CSS, and JavaScript.
 
 ---
 
